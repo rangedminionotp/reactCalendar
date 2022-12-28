@@ -1,5 +1,5 @@
 {
-  "name": "react-calendar",
+  "name": "calendar",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -26,6 +26,14 @@
   ],
   "homepage": "https://rangedminionotp.github.io/reactCalendar",
   "devDependencies": {
-    "gh-pages": "^2.0.1"
-  }
+    "gh-pages": "^2.2.0"
+  },
+  "description": "calendar in react, functionality kind of basic, might add more stuff to it",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "\u001b[D\u001b[C\u001b[D\u001b[D\u001b[C\u001b[C"
+  },
+  "author": "rangedminionotp",
+  "license": "ISC"
 }
